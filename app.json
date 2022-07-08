@@ -1,0 +1,20 @@
+{
+  "name": "deploy",
+  "description": "deploy",
+  "keywords": [
+    "deploy"
+  ],
+  "env": {
+    "UUID": {
+      "description": "UUID",
+      "value": "",
+      "required": true
+    }
+  },
+  "website": "https://github.com/hyfhtu68/cbvn",
+  "repository": "https://github.com/hyfhtu68/cbvn",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
